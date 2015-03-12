@@ -1,0 +1,12 @@
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\bin\Debug\Be a Man-theon.exe.config
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\bin\Debug\Be a Man-theon.exe
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\bin\Debug\Be a Man-theon.pdb
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\bin\Debug\LeagueSharp.Common.dll
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\bin\Debug\LeagueSharp.dll
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\bin\Debug\SharpDX.dll
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\bin\Debug\clipper_library.dll
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\bin\Debug\LeagueSharp.xml
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\obj\Debug\Be a Man-theon.csprojResolveAssemblyReference.cache
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\obj\Debug\Be a Man-theon.exe
+c:\users\ryuuji\documents\visual studio 2013\Projects\Be a Man-theon\Be a Man-theon\obj\Debug\Be a Man-theon.pdb
