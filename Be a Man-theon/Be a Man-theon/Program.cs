@@ -123,6 +123,12 @@ namespace Be_A_Man_theon
             if (Player.IsDead)
                 return;
 
+            if (usingE)
+            {
+                _orbwalker.SetMovement(false);
+                _orbwalker.SetAttack(false);
+            }
+
             if (_orbwalker.ActiveMode == Orbwalking.OrbwalkingMode.Combo)
             {
                 Combo();
@@ -193,12 +199,11 @@ namespace Be_A_Man_theon
             if (target != null && _Menu.Item("kek.pan.combo.usee").GetValue<bool>() && E.IsReady())
             {
                 {
-                    _orbwalker.SetMovement(false);
-                    _orbwalker.SetAttack(false);
-                    E.Cast(target);
+                   E.Cast(target);
                 }
             }
 
+           
             if (target != null && _Menu.Item("kek.pan.combo.useq").GetValue<bool>() && Q.IsReady() && !usingE)
             {
                 Q.Cast(target);
